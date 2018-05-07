@@ -14,7 +14,7 @@
 <a name="v1.Config"></a>
 
 ### Config
-Config is a top-level config object. It is used internally by gloo as a container for the entire user config.
+Config is a top-level config object. It is used internally by gloo as a container for the entire set of config objects.
 
 
 ```yaml
